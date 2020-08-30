@@ -39,6 +39,8 @@ $(document).ready(function() {
       $('.Metal').hide();
       $('.Jazz').show();
       $('.Rock').hide();
+    } else {
+      $('.cd').show();
     }
 
 
